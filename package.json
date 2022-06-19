@@ -14,14 +14,15 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-   "engines": {
+ "engines": {
         
-        "name": "app",
-        "description": "a really cool app",
-        "version": "1.0.0",
-        "engines": {
-          "node": "16.15.1"
-        }
+    
+      "name": "example-app",
+      "description": "a really cool app",
+      "version": "0.0.1",
+      "engines": {
+        "npm": "8.11.0"
+      }
    },
   "scripts": {
     "start": "react-scripts start",
