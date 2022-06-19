@@ -1,4 +1,6 @@
 nav {
+
+    
     background: rgba(255, 255, 255, 0.3);
     width: max-content;
     display: flex;
@@ -53,40 +55,12 @@ nav a.active {
 
 
     nav{
-    background: rgba(255, 255, 255, 0.3);
-    width: max-content;
-    display: block;
-    padding: 0.7rem 1.7rem;
-    z-index: 2;
-    position: fixed;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 2rem;
-    display: flex;
-    gap: 0.8rem;
-    border-radius: 3rem;
-    backdrop-filter: blur(15px);
-    }
-  }
-
-
-
-@media screen and (max-width:600px) {
-    nav{
-
-    background: rgba(255, 255, 255, 0.3);
-    width: max-content;
-    display: block;
-    padding: 0.7rem 1.7rem;
-    z-index: 2;
-    position: fixed;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 2rem;
-    display: flex;
-    gap: 0.8rem;
-    border-radius: 3rem;
-    backdrop-filter: blur(15px);
-    }
+        display: flex;
+        flex-direction: row;
+        justify-items: baseline;
+        left: 50%;
+        margin-bottom:-45%;
         
+    
     }
+}
