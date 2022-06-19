@@ -17,24 +17,17 @@ const services = () => {
           <ul className='services__list'>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>Poster:<br></br>Quiz Poster</p> 
             </li>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>Poster:<br></br>Welcome Freshers Poster</p>
             </li>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>Magazine:<br></br>LiveWire Magazine</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
-            </li>
+            <a href='#about' target='__blank'>Samples</a>
           </ul>
         </article>
 
@@ -46,52 +39,40 @@ const services = () => {
           <ul className='services__list'>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>A personal portfolio website.</p>
             </li>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>A teacher student interaction portal.</p>
             </li>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>A quiz website.</p>
             </li>
           </ul>
         </article>
 
         <article className='services'>
           <div className='services__head'>
-            <h3>Arduino</h3>
+            <h3>Arduino and Related Projects</h3>
           </div>
 
           <ul className='services__list'>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>Line following robot.</p>
             </li>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>Bluetooth controlled bot.</p>
             </li>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>DPDT switch based all train bot.</p>
             </li>
             <li>
               <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icons'/>
-              <p>Lorem ipsum dolor, sit amet consectetur</p>
+              <p>Battery Monitoring System.</p>
             </li>
           </ul>
         </article>
