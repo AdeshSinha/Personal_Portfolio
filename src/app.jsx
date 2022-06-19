@@ -5,7 +5,6 @@ import About from './About/About.jsx'
 import Experience from './Experience/experience.jsx'
 import Services from './Services/services.jsx'
 import Portfolio from './Portfolio/portfolio.jsx'
-import Testimonials from './Testimonials/testimonials.jsx'
 import Contact from './Contact/contact.jsx'
 import Fotter from './Fotter/fotter.jsx'
 
@@ -18,7 +17,6 @@ const app = () => {
       <Experience />
       <Services />
       <Portfolio />
-      <Testimonials />
       <Contact />
       <Fotter />
 
