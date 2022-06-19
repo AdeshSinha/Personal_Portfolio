@@ -16,7 +16,7 @@
   },
    "engines": {
         
-        "name": "myapp",
+        "name": "app",
         "description": "a really cool app",
         "version": "1.0.0",
         "engines": {
